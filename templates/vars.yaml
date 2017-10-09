@@ -2,9 +2,9 @@ name: couchdiscover
 heading: Autoclustering for CouchDB 2.x+
 github:
   user: joeblackwaslike
-  org: joeblackwaslike
+  org: telephoneorg
   repo: couchdiscover
 docker:
   user: joeblackwaslike
-  org: joeblackwaslike
+  org: telephoneorg
   repo: couchdiscover

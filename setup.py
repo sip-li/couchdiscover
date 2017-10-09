@@ -19,9 +19,9 @@ setup(
     keywords = ['couchdb', 'kubernetes', 'cluster'],
     author='Joe Black',
     author_email='joeblack949@gmail.com',
-    url='https://github.com/joeblackwaslike/couchdiscover',
+    url='https://github.com/telephoneorg/couchdiscover',
     download_url=(
-        'https://github.com/joeblackwaslike/couchdiscover/tarball/%s' %
+        'https://github.com/telephoneorg/couchdiscover/tarball/%s' %
         version
     ),
     license='Apache 2.0',
