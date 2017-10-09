@@ -7,7 +7,6 @@ target: '.travis.yml'
 {% set docker_user = data.get('vars')['docker']['user'] -%}
 {% set docker_org = data.get('vars')['docker']['org'] -%}
 {% set docker_pass = env.get('DOCKER_PASS_JOEBLACKWASLIKE') -%}
-{% set github_token = env.get('GITHUB_TOKEN') -%}
 {% set slack_secret = env.get('TRAVIS_SLACK_SECRET') -%}
 
 addons:
